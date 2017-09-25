@@ -7,6 +7,7 @@ while i<=inp:
 
 	j=1
 	k=1
+
 	while j<=i-1:
 		print(" ",end="")
 		j=j+1
@@ -15,5 +16,5 @@ while i<=inp:
 		print("*",end="")
 		k=k+1
 
-	print(" ")
+	print("")
 	i=i+1
