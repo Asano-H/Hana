@@ -5,3 +5,8 @@ def main():
 
 if __name__=="__main__":
 	main()
+
+"""
+べき乗を計算する関数
+pow(a,b)でaのb乗
+"""
