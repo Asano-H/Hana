@@ -1,20 +1,13 @@
 num=1000
 ans=str(num)	#整数numを文字列に変換
-
 print(ans)
-
-
 a="ml"
 b=80
 c=str(b)+a	#整数bを文字列に変換し、文字列aと連結
-
 print(c)
-
 d="20"
 e=int(d)+b	#文字列dを整数に変換
 print(e)
-
-
 """
 str関数
 数値を文字列に変換する

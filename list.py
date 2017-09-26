@@ -1,6 +1,7 @@
 datalist=[1,2,3]	#リスト型
 datatuple=(1,2,3)	#タプル型
 datajisyo={"apple":1,"orange":2}	#辞書型
+
 print(datalist)
 print(datatuple)
 print(datajisyo)

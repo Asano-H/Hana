@@ -1,14 +1,10 @@
 a="abcabca"
+
 print(a)
-
 print(a.strip("a"))	#両端の削除
-
 print(a.lstrip("a"))	#左端の削除
-
 print(a.rstrip("a"))	#右端の削除
-
 print("    abc".strip())	#空白を削除
-
 """
 strip関数
 .strip(削除したい文字列)

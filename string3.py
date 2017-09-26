@@ -1,7 +1,6 @@
 s="abcd123"
 str_change=s[:3]+"e"+s[4:]
 print(str_change)
-
 """
 スライス[:]を使う方法
 [:3]＝元文字列の４文字目まで
