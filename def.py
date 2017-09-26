@@ -1,7 +1,6 @@
 def cal(x,y,z):	#引数ｘ、ｙ、ｚを使う
 	answer=x+y-z	#answerを計算
 	return answer	#戻り値としてanswerを返す
-
 print(cal(10,2,4))
 
 """
