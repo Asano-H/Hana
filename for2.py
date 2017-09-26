@@ -2,7 +2,6 @@ for ten in range(10):
 	print(ten)
 for twelve in range(8,12):
 	print(twelve)
-
 for eight in range(10,50,8):
 	print(eight)
 """

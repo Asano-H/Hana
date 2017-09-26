@@ -1,8 +1,6 @@
 data="apple juice"
-
 print(data.endswith("le"))
 print(data.endswith("apple"))
-
 print(data.endswith("ce"))
 print(data.endswith("juice"))
 

@@ -1,5 +1,4 @@
 a="apple puice"
-
 print(a.find("ple"))
 print(a.find("pie"))
 
