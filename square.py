@@ -4,7 +4,7 @@ side = int(input())
 
 for a in range(side) :
     for b in range(side) :
-        print("*",end="")
+        print("＊",end="")
     print("")
 """
 正方形を描画
