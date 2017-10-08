@@ -1,0 +1,17 @@
+#型と演算の確認
+print("整数と実数を２つずつ入力してください")
+print("整数１：",end="")
+i1 = int(input())
+print("整数２：",end="")
+i2 = int(input())
+print("実数１：",end="")
+f1 = float(input())
+print("実数２：",end="")
+f2 = float(input())
+
+print("10*3 =",10*3)
+print("10/3 =",10/3)
+print("10*i1 =",10*i1)
+print("10/i1 =",10/i1)
+print("i1*i2 =",i1*i2)
+print("i1/i2 =",i1/i2)
