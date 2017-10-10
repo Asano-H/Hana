@@ -8,5 +8,5 @@ if a==b:
     print("ＡとＢは等しいです")
 elif a>b:
 	print("ＡはＢより大きいです")
-else
+else :
     print("ＡはＢより小さいです")
