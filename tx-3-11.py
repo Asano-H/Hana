@@ -8,7 +8,7 @@ print("整数３：",end="")
 c = int(input())
 if a==b and b==c:
     print("３つの値は等しいです")
-elif a==b or b==c or c==d:
+elif a==b or b==c or c==a:
     print("２つの値は等しいです")
 else :
     print("３つの値は異なります") 
