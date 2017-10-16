@@ -8,13 +8,14 @@ if a>b:
     low = b
     high = a
 else :
-    low a
+    low = a
     high = b
 
-num = low
+no = low
+num = 0
 while True:
-    sum = sum + num
-    num = num + 1
-    if num <= high
+    num = num + no
+    no = no + 1
+    if no <= high:
         break
-print(,low,"以上",high,"以下の整数の和は",sum,"です")
+print(low,"以上",high,"以下の整数の和は",no,"です")
