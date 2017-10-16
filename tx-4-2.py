@@ -18,4 +18,4 @@ while True:
     no = no + 1
     if no <= high:
         break
-print(low,"以上",high,"以下の整数の和は",no,"です")
+print(low,"以上",high,"以下の整数の和は",num,"です")
