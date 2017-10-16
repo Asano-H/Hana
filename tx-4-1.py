@@ -9,7 +9,7 @@ while True:
     else :
         print("その数は負です")
 
-    print("もう一度？【Yes・・・０/No・・・９】：")
+    print("もう一度？【Yes・・・０/No・・・９】：",end="")
     retry = int(input())
     if retry ==9:
         break
