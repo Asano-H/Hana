@@ -2,9 +2,9 @@
 while True:
     print("整数を入力してください：",end="")
     num = int(input())
-    if no==0:
+    if num==0:
         print("その数は０です")
-    elif no>0:
+    elif num>0:
         print("その数は正です")
     else :
         print("その数は負です")
