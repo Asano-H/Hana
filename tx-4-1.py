@@ -13,5 +13,3 @@ while True:
     retry = int(input())
     if retry ==9:
         break
-    
-
