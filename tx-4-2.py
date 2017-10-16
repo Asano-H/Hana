@@ -16,6 +16,6 @@ num = 0
 while True:
     num = num + no
     no = no + 1
-    if no <= high:
+    if high <= no:
         break
 print(low,"以上",high,"以下の整数の和は",num,"です")
