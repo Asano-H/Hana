@@ -2,5 +2,5 @@
 print("整数を入力してください")
 if no>=1:
     while no>=1:
-        print(,no--,end="")
+        print(no=no-1,end="")
     print(" ")
